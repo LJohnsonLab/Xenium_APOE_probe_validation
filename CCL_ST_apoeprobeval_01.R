@@ -2,6 +2,8 @@
 # Name: CCL_ST_apoe_probe_val_01.R
 # Project: 
 # Purpose: verifying that Xenium apoe SNP probes work 
+# scripts:
+#     - 01. merging samples together and cleaning (nCount > 5)
 # Input Files: Xenium slide output folders 
 # Output Files: individual subset objs, and merged cleaned obj (20260915_merged_clean_apoeprobeval_01.qs2)
 # Date created: 9/9/26
